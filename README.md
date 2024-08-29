@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Soham Bhattacharya !
 - 👀 I’m interested in coding , Machine Learning, IoT, web development , software development , artificial intelligence, blockchain technology etc...!
-- 🌱 I’m currently learning C, Advanced Python, Machine Learning, HTML, CSS, Bootstrap!!
+- 🌱 I’m currently learning  Advanced Python, Machine Learning,C,Java, HTML, CSS, Bootstrap!!
 - 📫 How to reach me ... E-mail- soham110904@gmail.com
 
 <!---
