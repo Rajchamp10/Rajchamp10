@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Soham Bhattacharya !
-- 👀 I’m interested in coding , IoT, web development , software development , artificial intelligence, blockchain technology etc...!
+- 👀 I’m interested in coding , Machine Learning, IoT, web development , software development , artificial intelligence, blockchain technology etc...!
 - 🌱 I’m currently learning C, HTML, CSS, Bootstrap!!
 - 📫 How to reach me ... E-mail- soham110904@gmail.com
 
