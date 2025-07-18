@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Soham Bhattacharyya !
-- 👀 I’m interested in coding , Machine Learning, IoT,  Android-studio software development , artificial intelligence, java,blockchain technology etc...!
-- 🌱 I’m currently learning  Advanced Python, Machine Learning,C,Java, HTML, CSS, Bootstrap,  Android App development, SQL,!!
+- 👀 I’m interested in  Machine Learning,Artificial Intelligence, IoT,  Android-studio software development , Kotlin java,blockchain technology etc...!
+- 🌱 I’m currently learning  Advanced Python, Machine Learning,C,Java, HTML, CSS, Bootstrap,  Android App development,Kotlin SQL,!!
 - 📫 How to reach me ... E-mail- soham110904@gmail.com
 
 <!---
